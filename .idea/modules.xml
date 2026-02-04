@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/seeds/Programmering1/Lek01_JavaIntroduktion/Lek01_JavaIntroduktion.iml" filepath="$PROJECT_DIR$/seeds/Programmering1/Lek01_JavaIntroduktion/Lek01_JavaIntroduktion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seeds/Programmering1/Lek02_Variable_og_Scanner/Lek02_Variable_og_Scanner.iml" filepath="$PROJECT_DIR$/seeds/Programmering1/Lek02_Variable_og_Scanner/Lek02_Variable_og_Scanner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seeds/Programmering1/Lek_03_Selections/Lek_03_Selections.iml" filepath="$PROJECT_DIR$/seeds/Programmering1/Lek_03_Selections/Lek_03_Selections.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seeds/Programmering1/Lek_4_Loops/Lek_4_Loops.iml" filepath="$PROJECT_DIR$/seeds/Programmering1/Lek_4_Loops/Lek_4_Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/code_craft_vol1.iml" filepath="$PROJECT_DIR$/.idea/code_craft_vol1.iml" />
+    </modules>
+  </component>
+</project>
